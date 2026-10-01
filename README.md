@@ -14,5 +14,14 @@ aos lados: equilátero, isósceles ou escaleno. Um triângulo existe quando cada
 lado é menor que a soma dos outros dois. A leitura fica no main(); a
 classificação, em outro método.
 
+### `O maior de três valores (Maior3Valores)`
 
+- O Programa Java lê 3 valores inteiros. Este contém um método que determina e
+RETORNA o maior valor digitado. A impressão do maior valor foi feita no
+main().
 
+### `Raízes da equação do segundo grau (RaizesEquacao2Grau)`
+
+- O Programa JAVA lê o cálculo de raízes de uma equação do segundo grau. O programa contém um
+método que calcula e retorna o delta, e outro método que calcula e retorna as
+duas raízes.
